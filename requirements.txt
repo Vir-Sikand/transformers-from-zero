@@ -1,0 +1,9 @@
+torch
+numpy
+matplotlib
+pytest
+transformers
+datasets
+tokenizers
+sentencepiece
+accelerate
